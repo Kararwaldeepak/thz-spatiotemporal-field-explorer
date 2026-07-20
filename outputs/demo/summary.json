@@ -1,0 +1,31 @@
+{
+  "scan_metrics": {
+    "stage_step_um": 10.0,
+    "n_time_samples": 201,
+    "delay_multiplier": 2.0,
+    "stage_scan_span_um": 2000.0,
+    "time_step_s": 6.671281903963041e-14,
+    "time_span_s": 1.3342563807926081e-11,
+    "fft_record_duration_s": 1.3409276626965711e-11,
+    "sampling_rate_hz": 14989622900000.0,
+    "frequency_resolution_hz": 74575238308.45772,
+    "nyquist_frequency_hz": 7494811450000.0,
+    "n_positive_frequency_frames": 101
+  },
+  "field_analysis": {
+    "reference_y": 47,
+    "reference_x": 47,
+    "dominant_component": "Ex",
+    "pulse_peak_time_s": 6.004153713566737e-12,
+    "pulse_fwhm_s": 1.0674051046340861e-12,
+    "spectrum_peak_frequency_hz": 447451429850.74634,
+    "spectral_fwhm_low_hz": 223725714925.37317,
+    "spectral_fwhm_high_hz": 894902859701.4927,
+    "spectral_fwhm_hz": 671177144776.1195,
+    "threshold_fraction": 0.1,
+    "threshold_band_low_hz": 74575238308.45772,
+    "threshold_band_high_hz": 1342354289552.239,
+    "threshold_bandwidth_hz": 1267779051243.7812,
+    "usable_frequency_frames": 18
+  }
+}
